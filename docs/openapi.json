@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.3",
   "info": {
-    "title": "SIGEMAT API",
+    "title": "SISTEMA DE ENTREGA DE MATERIAIS DOS CICOMs",
     "version": "0.1.0",
     "description": "API de gestão de CICOMs, materiais, solicitações e entregas do SIGEMAT."
   },

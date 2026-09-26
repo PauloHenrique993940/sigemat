@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SIGEMAT | Gestão de Materiais",
+  title: "Sistema de Acompanhamento de Entrega de Material dos Centros Integrados da Bahia",
   description: "Sistema de Gestão, Entrega e Acompanhamento de Materiais dos CICOMs.",
 };
 
